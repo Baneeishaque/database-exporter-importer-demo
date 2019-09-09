@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "03ed19844b5cc8e74089f363f2aa2f3f",
+    "packages": [
+        {
+            "name": "yuriy-sorokin/database-exporter-importer",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yuriy-sorokin/database-exporter-importer.git",
+                "reference": "c7a938d997393b984c9c96406c664a27fb64c462"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yuriy-sorokin/database-exporter-importer/zipball/c7a938d997393b984c9c96406c664a27fb64c462",
+                "reference": "c7a938d997393b984c9c96406c664a27fb64c462",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpmd/phpmd": "^2.3",
+                "phpunit/phpunit": "5.0.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "DatabaseExporterImporter": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Iurii Sorokin",
+                    "email": "yuriy.sorokin.gp@gmail.com"
+                }
+            ],
+            "description": "This package is used to export/import database data to/from different formats. Currently it supports only MySQL database and JSON export/import structure.",
+            "time": "2015-12-03T07:59:21+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

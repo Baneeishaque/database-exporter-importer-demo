@@ -1,0 +1,16 @@
+{
+    "name": "baneeishaque/database-exporter-importer-demo",
+    "description": "Usage Sample for yuriy-sorokin/database-exporter-importer",
+    "type": "project",
+    "require": {
+        "yuriy-sorokin/database-exporter-importer": "2.0.0"
+    },
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Banee Ishaque K",
+            "email": "Baneeishaque@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
